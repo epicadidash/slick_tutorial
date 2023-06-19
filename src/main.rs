@@ -15,6 +15,7 @@ slint::slint! {
         text: "Replace me with a name";
         single-line:false;
         wrap:word-wrap;
+        accepted => {}
     }
     }
 }
