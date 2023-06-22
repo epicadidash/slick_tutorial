@@ -1,2 +1,2 @@
 ### Hello
-#### Today we will be trying slick 
+#### Today we will be trying slint
