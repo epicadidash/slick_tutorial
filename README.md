@@ -1,2 +1,2 @@
 ## Hello
-### Today we will be trying slint
+### Today we will be trying [slint](https://slint.dev/)
